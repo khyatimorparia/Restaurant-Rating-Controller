@@ -1,5 +1,6 @@
 # Restaurant-Rating-Controller
 In this project, we have created a fuzzy control system on python which models how one might rate the restaurant based on factors like food, ambience and the expenses.
+
 INTRODUCTION
 Fuzzy Inference System is the primary unit of a Fuzzy Logic System having decision making as its primary work. It uses the “IF…THEN” rules along with connectors “OR” or “AND” for drawing essential rules.
 The flow of a fuzzy logic controller is as follows:
